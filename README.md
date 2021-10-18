@@ -1,1 +1,1 @@
-# System-Wlad-web-modern
+# System-Wlad-web-simple
